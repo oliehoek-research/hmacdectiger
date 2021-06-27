@@ -1,4 +1,4 @@
-# hmacdectiger
+# H-MacDecTiger
 This project contains the prototype I quickly built for my Computer Science master thesis at TU Delft.
 
 The output of this program is the top level joint policy of the H-MacDecTiger problem with a top level horizon of three.
